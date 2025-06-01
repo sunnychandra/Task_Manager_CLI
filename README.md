@@ -6,7 +6,7 @@ A simple command-line based task tracker to help you manage your daily tasks —
 
 ## 📸 Screenshot
 
-![image](https://github.com/user-attachments/assets/a4354c33-e1c0-4df6-b287-f300079ed6b2)
+![cli_features](https://github.com/user-attachments/assets/a4354c33-e1c0-4df6-b287-f300079ed6b2)
 
 
 
@@ -24,17 +24,17 @@ A simple command-line based task tracker to help you manage your daily tasks —
 
 Run the script using Python:
 
-```bash
-python3 task_Manager_cli.py <command> [arguments]
+$python3 task_Manager_cli.py <command> [arguments]
 
 ## 📘 Help & Usage Info
 
 If you run the CLI without any command, it will show helpful usage instructions:
 
-```bash
 $ python3 task_Manager_cli.py
 
-![image](https://github.com/user-attachments/assets/646c7be3-b077-49ed-a0f5-c6e8363d9b86)
+📸 Screenshot of CLI help output:
+![CLI Help Screenshot](https://github.com/user-attachments/assets/646c7be3-b077-49ed-a0f5-c6e8363d9b86)
+
 
 
 
