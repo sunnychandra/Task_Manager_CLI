@@ -34,5 +34,7 @@ If you run the CLI without any command, it will show helpful usage instructions:
 ```bash
 $ python3 task_Manager_cli.py
 
-![image](https://github.com/user-attachments/assets/3b7dc46e-c1eb-4f3a-b0d9-9e72a6dcc308)
+![image](https://github.com/user-attachments/assets/646c7be3-b077-49ed-a0f5-c6e8363d9b86)
+
+
 
